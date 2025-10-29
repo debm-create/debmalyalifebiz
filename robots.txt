@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://debm-create.github.io/debmalyalifebiz/sitemap.xml
+Sitemap: https://seo.debmalyalifebiz.com/sitemap.xml
