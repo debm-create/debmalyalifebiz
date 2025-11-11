@@ -1,1 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.debmalyalifebiz.com/#organization",
+      "name": "Debmalya Life Biz Mentorship",
+      "url": "https://www.debmalyalifebiz.com",
+      "logo": "https://www.debmalyalifebiz.com/logo.png",
+      "description": "Debmalya Life Biz Mentorship helps CXOs, entrepreneurs, and seekers align spiritual awareness with business growth. Founded by Debmalya Om Malya, it blends tantra, mindfulness, and modern leadership principles for conscious success.",
+      "founder": {
+        "@type": "Person",
+        "@id": "https://www.debmalyalifebiz.com/#founder",
+        "name": "Debmalya Om Malya",
+        "jobTitle": "Spiritual Business Mentor",
+        "image": "https://www.debmalyalifebiz.com/images/debmalya.jpg",
+        "sameAs": [
+          "https://www.linkedin.com/in/deb-om-malya-32250251",
+          "https://www.facebook.com/profile.php?id=61583062446517",
+          "https://www.instagram.com/debmalyalifebiz"
+        ]
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/deb-om-malya-32250251",
+        "https://www.facebook.com/profile.php?id=61583062446517",
+        "https://www.instagram.com/debmalyalifebiz"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "Customer Support",
+          "email": "connect@debmalyalifebiz.com",
+          "areaServed": "Worldwide",
+          "availableLanguage": ["English", "Hindi"]
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.debmalyalifebiz.com/#website",
+      "url": "https://www.debmalyalifebiz.com",
+      "name": "Debmalya Life Biz Mentorship",
+      "publisher": { "@id": "https://www.debmalyalifebiz.com/#organization" },
+      "inLanguage": "en",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.debmalyalifebiz.com/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.debmalyalifebiz.com/#person",
+      "name": "Debmalya Om Malya",
+      "url": "https://www.debmalyalifebiz.com/about-me",
+      "jobTitle": "Spiritual Business Mentor",
+      "image": "https://www.debmalyalifebiz.com/images/debmalya.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/in/deb-om-malya-32250251",
+        "https://www.facebook.com/profile.php?id=61583062446517",
+        "https://www.instagram.com/debmalyalifebiz"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.debmalyalifebiz.com/#webpage",
+      "url": "https://www.debmalyalifebiz.com/",
+      "name": "Home – Debmalya Life Biz Mentorship",
+      "description": "Official website of Debmalya Life Biz Mentorship — guiding leaders toward conscious business growth and spiritual alignment.",
+      "inLanguage": "en",
+      "isPartOf": { "@id": "https://www.debmalyalifebiz.com/#website" },
+      "about": { "@id": "https://www.debmalyalifebiz.com/#organization" }
+    }
+  ]
+}
 
