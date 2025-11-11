@@ -1,70 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Core Pages -->
+  <!-- 🌿 Core Pages -->
+  <url>
+    <loc>https://www.debmalyalifebiz.com/</loc>
+    <lastmod>2025-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
   <url>
     <loc>https://www.debmalyalifebiz.com/home</loc>
-    <lastmod>2025-11-04</lastmod>
+    <lastmod>2025-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://www.debmalyalifebiz.com/about-me</loc>
-    <lastmod>2025-11-04</lastmod>
+    <lastmod>2025-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.debmalyalifebiz.com/book-sessions</loc>
+    <lastmod>2025-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://www.debmalyalifebiz.com/pricing</loc>
+    <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.debmalyalifebiz.com/book-sessions</loc>
-    <lastmod>2025-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://www.debmalyalifebiz.com/pricing</loc>
-    <lastmod>2025-11-04</lastmod>
+    <loc>https://www.debmalyalifebiz.com/contact</loc>
+    <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.75</priority>
   </url>
 
-  <!-- Services -->
+  <!-- 🌟 Services -->
   <url>
     <loc>https://www.debmalyalifebiz.com/services/business-advisor</loc>
-    <lastmod>2025-11-04</lastmod>
+    <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.debmalyalifebiz.com/services/life-coaching</loc>
-    <lastmod>2025-11-04</lastmod>
+    <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.debmalyalifebiz.com/services/business-mentorship-program</loc>
-    <lastmod>2025-11-04</lastmod>
+    <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.debmalyalifebiz.com/services/terms-and-conditions</loc>
-    <lastmod>2025-11-04</lastmod>
+    <lastmod>2025-11-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
-  <!-- Wisdom -->
+  <!-- 💫 Wisdom (Blog) -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom</loc>
-    <lastmod>2025-11-04</lastmod>
+    <lastmod>2025-11-11</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/just-saying-and-just-doing</loc>
-    <lastmod>2025-11-04</lastmod>
+    <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.debmalyalifebiz.com/wisdom/from-follower-culture-to-self-mastery-digital-consciousness-in-business</loc>
+    <lastmod>2025-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.debmalyalifebiz.com/wisdom/conscious-commerce-doing-business-with-a-sacred-heart-for-ceos</loc>
+    <lastmod>2025-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- 📚 Legal & Support -->
+  <url>
+    <loc>https://www.debmalyalifebiz.com/privacy-policy</loc>
+    <lastmod>2025-11-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.debmalyalifebiz.com/sitemap</loc>
+    <lastmod>2025-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
   </url>
 
 </urlset>
+
