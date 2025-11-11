@@ -19,4 +19,4 @@ Sitemap: https://raw.githubusercontent.com/debm-create/debmalyalifebiz/refs/head
 
 # JSON-LD Schema reference (structured data for entity recognition)
 # Helps search engines connect your organization, founder, and website information
-Schema: https://raw.githubusercontent.com/debm-create/debmalyalifebiz/main/schema.json
+Schema: https://raw.githubusercontent.com/debm-create/debmalyalifebiz/refs/heads/main/Schema.json
