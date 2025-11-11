@@ -105,12 +105,8 @@
     <priority>0.50</priority>
   </url>
 
-  <!-- 🤖 Robots.txt Reference -->
-  <url>
-    <loc>https://raw.githubusercontent.com/create/debmalyalifebiz/main/robots.txt</loc>
-    <lastmod>2025-11-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.40</priority>
-  </url>
+  <!-- ✅ Note -->
+  <!-- Removed external GitHub URLs to comply with Google Search Console domain policy -->
+  <!-- JSON-LD Schema is hosted externally and should not be listed here -->
 
 </urlset>
