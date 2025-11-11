@@ -1,4 +1,17 @@
+# 🌿 Debmalya Life Biz Mentorship - Robots.txt
+# Purpose: Guide search engine crawlers for better SEO and clean indexing
+
+# Apply these rules to all bots (Google, Bing, Yahoo, etc.)
 User-agent: *
 Allow: /
 
+# Optional: Block unnecessary system or search pages (Google Sites auto-generated)
+Disallow: /system/
+Disallow: /search
+Disallow: /feed
+Disallow: /draft
+Disallow: /hidden
+Disallow: /admin
+
+# Sitemap location (your verified sitemap for full crawl coverage)
 Sitemap: https://seo.debmalyalifebiz.com/sitemap.xml
