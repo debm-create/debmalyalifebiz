@@ -13,5 +13,10 @@ Disallow: /draft
 Disallow: /hidden
 Disallow: /admin
 
-# Sitemap location (your verified sitemap for full crawl coverage)
+# Sitemap locations (for full crawl coverage)
 Sitemap: https://seo.debmalyalifebiz.com/sitemap.xml
+Sitemap: https://raw.githubusercontent.com/debm-create/debmalyalifebiz/refs/heads/main/sitemap.xml
+
+# JSON-LD Schema reference (structured data for entity recognition)
+# Helps search engines connect your organization, founder, and website information
+Schema: https://raw.githubusercontent.com/debm-create/debmalyalifebiz/main/schema.json
