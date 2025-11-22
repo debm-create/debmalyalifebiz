@@ -72,6 +72,8 @@
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
+
+  <!-- Existing 3 -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/just-saying-and-just-doing</loc>
     <lastmod>2025-11-11</lastmod>
@@ -91,22 +93,39 @@
     <priority>0.85</priority>
   </url>
 
-  <!-- 📚 Legal & Support -->
-  <url>
-    <loc>https://www.debmalyalifebiz.com/privacy-policy</loc>
-    <lastmod>2025-11-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://www.debmalyalifebiz.com/sitemap</loc>
-    <lastmod>2025-11-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.50</priority>
-  </url>
+  <!-- 🌿 Added 22 Blog URLs -->
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/the-price-of-freedom</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
 
-  <!-- ✅ Note -->
-  <!-- Removed external GitHub URLs to comply with Google Search Console domain policy -->
-  <!-- JSON-LD Schema is hosted externally and should not be listed here -->
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/life-and-its-tantrums</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/immobile-motions-of-life</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/the-butterfly-effect-in-business</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/value-the-sun</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/human-consciousness-business-and-money</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/the-presence-of-devi</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/diwali-the-significance-of-the-celebration</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/how-aggressive-are-you-in-sales</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/excessive-self-promotion-a-dangerous-game</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/vision-to-visionary-business-life</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/why-business-fail-or-get-stuck</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/mentor-notes/wu-wei-dew-drops-of-daily-knowledge</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/mentor-notes/procrastination-do-you-really-care-for-yourself</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/mentor-notes/immobile-motions-of-life</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/mentor-notes/life-and-its-tantrums</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+
+  <url><loc>https://www.debmalyalifebiz.com/wisdom/mentor-notes/the-price-of-freedom</loc><lastmod>2025-11-11</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
 
 </urlset>
