@@ -81,7 +81,29 @@
     <priority>0.80</priority>
   </url>
 
-  <!-- 🔥 High-Authority Business Blogs (Dec 2025) -->
+  <!-- 🧭 FOUNDATIONAL PILLAR PAGES (Dec 2025) -->
+  <url>
+    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/awareness-based-business-growth</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/conscious-leadership-and-decision-making</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/business-life-alignment</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- 🔥 High-Authority Business Blogs -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/bad-truths-and-good-lies-in-business-leadership</loc>
     <lastmod>2025-12-19</lastmod>
@@ -103,7 +125,7 @@
     <priority>0.80</priority>
   </url>
 
-  <!-- 🌱 Business & Leadership (Nov 2025) -->
+  <!-- 🌱 Business & Leadership (Evergreen) -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/the-butterfly-effect-in-business</loc>
     <lastmod>2025-11-10</lastmod>
@@ -139,7 +161,7 @@
     <priority>0.80</priority>
   </url>
 
-  <!-- 🕊️ Spiritual & Awareness (Evergreen) -->
+  <!-- 🕊️ Spiritual & Awareness -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/value-the-sun</loc>
     <lastmod>2025-10-01</lastmod>
@@ -183,4 +205,3 @@
   </url>
 
 </urlset>
-
