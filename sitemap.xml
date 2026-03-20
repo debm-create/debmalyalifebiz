@@ -4,14 +4,7 @@
   <!-- 🌿 Core Pages -->
   <url>
     <loc>https://www.debmalyalifebiz.com/</loc>
-    <lastmod>2025-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/home</loc>
-    <lastmod>2025-12-19</lastmod>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
@@ -32,7 +25,7 @@
 
   <url>
     <loc>https://www.debmalyalifebiz.com/book-sessions</loc>
-    <lastmod>2025-12-19</lastmod>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
@@ -54,9 +47,9 @@
   <!-- 🌟 Services -->
   <url>
     <loc>https://www.debmalyalifebiz.com/services</loc>
-    <lastmod>2026-01-20</lastmod>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
+    <priority>0.90</priority>
   </url>
 
   <url>
@@ -90,9 +83,9 @@
   <!-- 💫 Wisdom Index -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom</loc>
-    <lastmod>2025-12-19</lastmod>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
+    <priority>0.90</priority>
   </url>
 
   <url>
@@ -102,7 +95,7 @@
     <priority>0.85</priority>
   </url>
 
-  <!-- 📚 Wisdom Category Pages -->
+  <!-- 📚 Category Pages -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment</loc>
     <lastmod>2026-01-20</lastmod>
@@ -124,7 +117,7 @@
     <priority>0.85</priority>
   </url>
 
-  <!-- 🧭 FOUNDATIONAL PILLAR PAGES (Dec 2025) -->
+  <!-- 🧭 Pillar Pages -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/awareness-based-business-growth</loc>
     <lastmod>2025-12-27</lastmod>
@@ -139,24 +132,10 @@
     <priority>0.90</priority>
   </url>
 
+  <!-- 🔥 Blogs -->
   <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/business-life-alignment</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.90</priority>
-  </url>
-
-  <!-- 🔥 High-Authority Business Blogs -->
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/bad-truths-and-good-lies-in-business-leadership</loc>
-    <lastmod>2025-12-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/my-analysis-of-elon-musk</loc>
-    <lastmod>2025-12-19</lastmod>
+    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/the-hard-thing-about-hard-things</loc>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
@@ -168,161 +147,12 @@
     <priority>0.85</priority>
   </url>
 
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/just-saying-and-just-doing</loc>
-    <lastmod>2026-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/from-follower-culture-to-self-mastery-digital-consciousness-in-business</loc>
-    <lastmod>2026-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/conscious-commerce-doing-business-with-a-sacred-heart-for-ceos</loc>
-    <lastmod>2026-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/how-to-build-authority-in-e-commerce-after-your-application-is-established</loc>
-    <lastmod>2026-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- 🌱 Business & Leadership (Evergreen) -->
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/the-butterfly-effect-in-business</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/how-aggressive-are-you-in-sales</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/excessive-self-promotion-a-dangerous-game</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/vision-to-visionary-business-life</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/why-business-fail-or-get-stuck</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- 🕊️ Awareness & Conscious Living -->
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/the-price-of-freedom</loc>
-    <lastmod>2025-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/life-and-its-tantrums</loc>
-    <lastmod>2025-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/immobile-motions-of-life</loc>
-    <lastmod>2025-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/you-change-i-change-and-everything-changes</loc>
-    <lastmod>2025-12-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/dont-try-just-do-for-founders-ceos-and-thought-leaders-navigating-stra</loc>
-    <lastmod>2026-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/wu-wei-dew-drops-of-daily-knowledge</loc>
-    <lastmod>2026-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/procrastination-do-you-really-care-for-yourself</loc>
-    <lastmod>2026-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-
   <!-- 🕉️ Spiritual Teachings -->
   <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/value-the-sun</loc>
-    <lastmod>2025-10-01</lastmod>
+    <loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/my-relation-with-devi-and-significance-of-navratri</loc>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/the-presence-of-devi</loc>
-    <lastmod>2025-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/diwali-the-significance-of-the-celebration</loc>
-    <lastmod>2025-10-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.75</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/the-himalayan-wisdom</loc>
-    <lastmod>2026-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/mantras-an-ancient-technology-for-modern-minds</loc>
-    <lastmod>2026-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/debgpt-ai-mentor</loc>
-    <lastmod>2026-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.70</priority>
   </url>
 
 </urlset>
