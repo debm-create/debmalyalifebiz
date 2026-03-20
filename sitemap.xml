@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- 🌿 Core Pages -->
+  <!-- Core Pages -->
   <url>
     <loc>https://www.debmalyalifebiz.com/</loc>
     <lastmod>2026-03-20</lastmod>
@@ -44,7 +44,7 @@
     <priority>0.75</priority>
   </url>
 
-  <!-- 🌟 Services -->
+  <!-- Services -->
   <url>
     <loc>https://www.debmalyalifebiz.com/services</loc>
     <lastmod>2026-03-20</lastmod>
@@ -80,7 +80,7 @@
     <priority>0.60</priority>
   </url>
 
-  <!-- 💫 Wisdom Index -->
+  <!-- Wisdom Index -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom</loc>
     <lastmod>2026-03-20</lastmod>
@@ -95,7 +95,7 @@
     <priority>0.85</priority>
   </url>
 
-  <!-- 📚 Wisdom Category Pages -->
+  <!-- Wisdom Category Pages -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment</loc>
     <lastmod>2026-01-20</lastmod>
@@ -117,7 +117,7 @@
     <priority>0.85</priority>
   </url>
 
-  <!-- 🧭 FOUNDATIONAL PILLAR PAGES -->
+  <!-- Foundational Pillar Pages -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/awareness-based-business-growth</loc>
     <lastmod>2025-12-27</lastmod>
@@ -139,7 +139,7 @@
     <priority>0.90</priority>
   </url>
 
-  <!-- 🔥 High-Authority Business Blogs -->
+  <!-- High-Authority Business Blogs -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/bad-truths-and-good-lies-in-business-leadership</loc>
     <lastmod>2025-12-19</lastmod>
@@ -189,14 +189,7 @@
     <priority>0.80</priority>
   </url>
 
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/the-hard-thing-about-hard-things</loc>
-    <lastmod>2026-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- 🌱 Business & Leadership (Evergreen) -->
+  <!-- Business & Leadership (Evergreen) -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/business-life-alignment/the-butterfly-effect-in-business</loc>
     <lastmod>2025-11-10</lastmod>
@@ -232,7 +225,7 @@
     <priority>0.80</priority>
   </url>
 
-  <!-- 🕊️ Awareness & Conscious Living -->
+  <!-- Awareness & Conscious Living -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/awareness-conscious-living/the-price-of-freedom</loc>
     <lastmod>2025-10-01</lastmod>
@@ -282,7 +275,7 @@
     <priority>0.75</priority>
   </url>
 
-  <!-- 🕉️ Spiritual Teachings -->
+  <!-- Spiritual Teachings -->
   <url>
     <loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/value-the-sun</loc>
     <lastmod>2025-10-01</lastmod>
@@ -323,13 +316,6 @@
     <lastmod>2026-01-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
-  </url>
-
-  <url>
-    <loc>https://www.debmalyalifebiz.com/wisdom/spiritual-teachings/my-relation-with-devi-and-significance-of-navratri</loc>
-    <lastmod>2026-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
   </url>
 
 </urlset>
